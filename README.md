@@ -44,6 +44,6 @@
 
 ![TacticalReader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TacticalReader)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=TacticalReader&layout=compact)](https://github.com/TacticalReader)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-TacticalReader)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TacticalReader)
 
 
