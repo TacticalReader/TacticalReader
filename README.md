@@ -42,4 +42,4 @@
     <br>
 </div>
 
-[(https://github-readme-stats.vercel.app/api?username=TacticalReader)]
+![TacticalReader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TacticalReader)
