@@ -38,8 +38,10 @@
 <br/>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,flask" />
     <br>
 </div>
 
 ![TacticalReader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TacticalReader)
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=TacticalReader&layout=compact)]                                                        
+(https://github.com/TacticalReader)
