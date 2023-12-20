@@ -41,3 +41,5 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
     <br>
 </div>
+
+[(https://github-readme-stats.vercel.app/api?username=TacticalReader)]
