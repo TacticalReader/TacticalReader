@@ -42,6 +42,6 @@
     <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TacticalReader&layout=compact&theme=vision-friendly-dark)](https://github.com/TacticalReader/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TacticalReader&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TacticalReader&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TacticalReader&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="TacticalReader" /></p>
