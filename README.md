@@ -36,7 +36,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TacticalReader&theme=dark&hide_border=false" height="180" alt="stats graph" />
+ <img src="https://streak-stats.demolab.com/?user=TacticalReader&theme=dark&hide_border=false" height="180" alt="streak graph" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=TacticalReader&theme=dark&hide_border=false" height="180" alt="streak graph" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TacticalReader&theme=dark&hide_border=false&layout=compact" alt="top langs" />
