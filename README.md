@@ -49,7 +49,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TacticalReader&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=TacticalReader&theme=radical&no-frame=true&margin-w=10" />
 </div>
 
 ### ✍️ Random Dev Quote
